@@ -45,7 +45,7 @@ Também já trabalhei com **Inteligência Artificial e Visão Computacional** (p
 
 ---
 
-## 🏗️ Experiência em poucas linhas
+## 🏗️ Experiências
 
 - **Efí Bank(Engenharia de Software):** soluções financeiras escaláveis e resilientes, integrações Pix (SPI/DICT), mensageria e padrões de segurança.
 - **Instituto Tecnológico Vale (Pesquisa em IA):** visão computacional e controle robótico (ROSI + Kinova Gen3), com backend, frontend e modelo YOLO.
@@ -64,4 +64,5 @@ Também já trabalhei com **Inteligência Artificial e Visão Computacional** (p
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-nogueira-989059187)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.nogg00@gmail.com)
+
 
