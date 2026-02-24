@@ -1,6 +1,6 @@
 # Olá, eu sou o Matheus Nogueira 👋
 
-Sou **Engenheiro de Software** com **+4 anos de experiência** construindo soluções financeiras com meios de pagamentos como **Pix** e **Cartões (crédito, débito e pré-pago)**, com foco em **arquitetura distribuída**, **alta disponibilidade**, **observabilidade** e **confiabilidade operacional**.  
+Sou **Engenheiro de Software** com **+4 anos de experiência** , no momento construindo soluções financeiras com meios de pagamentos como **Pix** e **Cartões (crédito, débito e pré-pago)**, com foco em **arquitetura distribuída**, **alta disponibilidade**, **observabilidade** e **confiabilidade operacional**.  
 Também já trabalhei com **Inteligência Artificial e Visão Computacional** (pesquisa aplicada, pipelines e modelos).
 
 ---
@@ -64,5 +64,6 @@ Também já trabalhei com **Inteligência Artificial e Visão Computacional** (p
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-nogueira-989059187)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.nogg00@gmail.com)
+
 
 
