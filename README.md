@@ -46,7 +46,7 @@ Também já trabalhei com **Inteligência Artificial e Visão Computacional** (p
 ---
 
 ## 🏗️ Experiências
-- ** Celcoin:** Engenheiro de Software Pleno - Open Finance
+- **Celcoin:** Engenheiro de Software Pleno - Open Finance
 - **Efí Bank(Engenharia de Software):** soluções financeiras escaláveis e resilientes, integrações Pix (SPI/DICT), mensageria e padrões de segurança.
 - **Instituto Tecnológico Vale (Pesquisa em IA):** visão computacional e controle robótico (ROSI + Kinova Gen3), com backend, frontend e modelo YOLO.
 
